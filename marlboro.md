@@ -41,7 +41,7 @@ etc.
 
 [Дзен](https://dzen.ru/)
 
-Изображения
+Изображение моего братка
 
 ![какая то картинка](https://i.cdn01.ru/files/users/images/0c/41/0c4165ac9fae8583628fedb055069cc9.jpg)
 
