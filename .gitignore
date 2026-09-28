@@ -1,0 +1,82 @@
+# ===== Операционные системы =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# ===== Редакторы и IDE =====
+.vscode/
+.idea/
+*.iml
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# ===== Node.js =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# ===== Java =====
+*.class
+*.jar
+*.war
+target/
+.gradle/
+build/
+out/
+bin/
+
+# ===== C/C++ =====
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+build/
+cmake-build-*/
+
+# ===== Логи и временные файлы =====
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+
+# ===== Секреты и локальные настройки =====
+.env
+.env.local
+.env.*.local
+config.local.*
+secrets.*
