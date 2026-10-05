@@ -8,4 +8,4 @@
 - [BashCLI](/MarkdownAndBash/BashCLI.md)
 - [BashScripting](/BashScripting.md)
 - [Git](/MarkdownAndBash/Git.md)
-- [Самостоялка](/Samostoyal/README.md)
+- [BashScriptingSamostoyalka](/Samostoyal/README.md)
