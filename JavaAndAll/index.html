@@ -4,19 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FRONTEND</title>
+    <link rel="stylesheet" href="./images/CSS/styles.css">
 </head>
 <body>
     <header>
          <h1> ЙОУ </h1>
          <nav>
            <h2><a href="https://html5book.ru/html-tags/">Главная</a></h2>
-           <h2><a href="./Magaziner.html"></a>Товарищ майор</h2>
+           <h2><a href="Magaziner.html"></a>Товарищ майор</h2>
            <h2><a href="./"></a>Контакты</h2>
            <strong></strong>
         </nav>
         <img src="https://avatars.mds.yandex.net/i?id=887609cfd3360a822930e4af8339d8aec06bbc6a-9182408-images-thumbs&n=13" alt="#"> <br>
-        <img src="https://media1.tenor.com/m/jLRwlUg1-gEAAAAd/rocket-league-rocket.gif" alt="#"> <br>
-        <img src="./images/6a2a4afa6bac945f23e669f1b2fec7e3.jpg" alt="#">
+        <img src="./images/6a2a4afa6bac945f23e669f1b2fec7e3.jpg" width="700" height="100" alt="">
+    <figcaption>JIROVIK1928</figcaption>
     </header>
 
     <Main>
@@ -27,10 +28,40 @@
             <section>gl</section>
             <section>hf</section>
         </article>
-        <aside> </aside>
+        <table>
+            <thead>
+                <tr>
+                    <th>Артикул</th>
+                    <th>Название</th>
+                    <th>Цена</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>123</td>
+                    <td>DivanBoss</td>
+                    <td>50000</td>
+                </tr>
+            </tbody>
+        </table>
+        <form action="./scripts/scriptform.js" method="post">
+            <div>
+                <label for="login">Логин</label>
+                <input name="login" type="email" required placeholder="Email or name">
+            </div>
+            <div>
+                <label>Пароль</label>
+                <input required>
+            </div>
+            <button type="submit">Отправить</button>
+        </form>
+        <div class="firstdiv">Bad</div>
+        <div id="firstdivid">so bad</div>
+        <div>very bad</div>
+        <div>so very bad</div>
     </Main>
     <footer>
-        футер
+        Подвал текста
     </footer>
 </body>
 

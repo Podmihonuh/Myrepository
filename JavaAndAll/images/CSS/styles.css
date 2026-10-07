@@ -1,0 +1,18 @@
+div {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 255, 0)
+}
+
+.firstdiv {
+    color: red;
+    font-size: 90px;
+    font-family: fantasy;
+    margin: 20px 0px 20px 0px;
+    background-color: black;
+    border: 5px solid lime;
+    
+}
+
+#firstdivid {
+    color: blue;
+}
