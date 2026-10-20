@@ -9,5 +9,5 @@
 - [BashScripting](/BashScripting.md)
 - [Git](/MarkdownAndBash/Git.md)
 - [BashScriptingSamostoyalka](/Samostoyal/README.md)
-- [MaSite](https://podmihonuh.github.io/MaSite/)
-- [Repository on GitHub](https://github.com/Podmihonuh/MaSite)
+- [MaSite](https://podmihonuh.github.io/MaSite/) - [Repository on GitHub](https://github.com/Podmihonuh/MaSite)
+- [Site This Repository](https://podmihonuh.github.io/Myrepository/JavaAndAll/index.html)
