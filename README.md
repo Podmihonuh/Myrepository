@@ -11,3 +11,5 @@
 - [BashScriptingSamostoyalka](/Samostoyal/README.md)
 - [MaSite](https://podmihonuh.github.io/MaSite/) - [Repository on GitHub](https://github.com/Podmihonuh/MaSite)
 - [Site This Repository](https://podmihonuh.github.io/Myrepository/JavaAndAll/index.html)
+- [WebSiterepository](https://github.com/Podmihonuh/my-web-site)
+- [WebSite](https://podmihonuh.github.io/my-web-site/)
