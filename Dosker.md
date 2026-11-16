@@ -213,3 +213,4 @@ exit
 ### Ссылки
 
 - [Docker Reminder](https://www.altlinux.org/Docker_Reminder)
+- [Тот самый локалхост](http://localhost:8088)
